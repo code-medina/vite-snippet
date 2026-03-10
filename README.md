@@ -1,6 +1,6 @@
 
 
-# Snippet Brain
+# Snippet Manager
 
 Aplicación web simple para **guardar pequeños snippets de texto** directamente en el navegador.
 
