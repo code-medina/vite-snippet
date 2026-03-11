@@ -9,7 +9,7 @@ export const tagsSchema = z.preprocess(
     }
     return value;
   },
-  z.array(z.string().max(4, "tags not exeed 4 tag")),
+  z.array(z.string()).max(4, "tags not exeed 4 tag"),
 );
 
 export const snippetSchema = z.object({
