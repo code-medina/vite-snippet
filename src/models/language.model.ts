@@ -1,7 +1,7 @@
 
 export const Language={
     Javascript:"Javascript",
-    Typescript:"TYpescript",
+    Typescript:"Typescript",
     HTML:"HTML",
     CSS:"CSS",  
 } as const;
